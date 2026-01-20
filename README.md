@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm RaioKato!
 
-### 🎯 19-Year-Old Freelance Engineer | Full-Stack Developer
+### 🎯 19-Year-Old Freelance Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/RaioKato?style=for-the-badge&logo=github&color=blue)](https://github.com/RaioKato)
 [![GitHub stars](https://img.shields.io/github/stars/RaioKato?style=for-the-badge&logo=github&color=yellow)](https://github.com/RaioKato)
